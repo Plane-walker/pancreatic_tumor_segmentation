@@ -128,9 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-best_weights.h5
-model_architecture.json
+*.h5
+*.json
 *.hdf5
-train_result.png
+*.png
 \.idea
 \pancreas
